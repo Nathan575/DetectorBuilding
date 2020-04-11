@@ -4,7 +4,7 @@
   Detector Building
 */
 
-//Assigning LEDS
+//Assigning LEDs
 int red = 13;
 int green = 12;
 int blue = 11;
